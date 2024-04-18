@@ -1,3 +1,0 @@
-Place the ZIP/XPI in your extensions folder. If the error that there is no signature appears place it in debugging with temporary signatures.
-
-On Firefox you can install it via. the web store once it approves.
